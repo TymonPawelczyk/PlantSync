@@ -1,9 +1,7 @@
-<script lang="ts" setup>
-
-</script>
+<script lang="ts" setup></script>
 <template>
   <div>
-    <font-awesome-icon icon="fa-solid fa-user" />
+
   </div>
 </template>
 
