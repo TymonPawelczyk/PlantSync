@@ -1,13 +1,9 @@
-<script lang="ts" setup>
-
-</script>
+<script lang="ts" setup></script>
 <template>
-    <div class="p-4">
-    <RouterLink to="/" class="btn" name="Home"> Home </RouterLink>
-    <h1 class="text-xl font-bold mb-2">Dodaj roślinę</h1>
+  <RouterLink to="/" class="btn" name="Home"> Home </RouterLink>
+  <div class="p-4">
+    <h1 class="text-xl font-bold mb-2">Dodawanie rośliny</h1>
     <!-- formularz dodawania -->
-     <!-- Router ponizej podpiety pod każda rosline z listy -->
-    <RouterLink to="/plant" class="text-blue-600 underline">Zobacz szczegóły</RouterLink>
   </div>
 </template>
 

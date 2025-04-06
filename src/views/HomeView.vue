@@ -5,14 +5,12 @@
     <font-awesome-icon icon="fa-solid fa-seedling" />
   </h1>
   <div class="p-4">
-    <RouterLink to="/add" class="drop-shadow">+ Dodaj roślinę</RouterLink>
+    <RouterLink to="/add" class="btn">+ Dodaj roślinę</RouterLink>
     <h1 class="text-2xl">
       Obecna pogoda i zadania na dzisiaj w formie listy oraz ostanio dodana roślina
     </h1>
   </div>
-  <RouterLink to="/profile" class="btn">
-    <font-awesome-icon icon="fa-solid fa-user" />
-  </RouterLink>
+  <RouterLink to="/profile" class="btn"> User Profile </RouterLink>
 </template>
 
 <style scoped></style>
