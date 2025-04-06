@@ -11,14 +11,4 @@
   </div>
 </template>
 
-<style>
-.btn {
-    background-color: var(--color-stone-200);
-    color: black;
-    &:hover {
-      background-color: var(--color-stone-700);
-      color: white;
-
-    }
-  }
-</style>
+<style></style>

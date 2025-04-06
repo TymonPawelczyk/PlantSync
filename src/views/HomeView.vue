@@ -15,18 +15,4 @@
   </RouterLink>
 </template>
 
-<style scoped>
-.btn {
-  display: grid;
-  place-items: center;
-  background-color: var(--color-stone-200);
-  color: black;
-  margin: 15%;
-  border-radius: 5px;
-  &:hover {
-    background-color: var(--color-stone-700);
-    color: white;
-    transition: 0.4s;
-  }
-}
-</style>
+<style scoped></style>
