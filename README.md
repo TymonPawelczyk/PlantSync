@@ -1,6 +1,7 @@
 # PlantSync
 
 PlantSync is a progressive web app (PWA) that helps hobby gardeners manage their fruit, vegetable, and herb crops in the garden or greenhouse.
+An app that helps you embrace all your houseplants or garden plants - reminds you to water, suggests fertilization and lets you catalog them. For the passionate, but also forgetful.
 
 ## Recommended IDE Setup
 
